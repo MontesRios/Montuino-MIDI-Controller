@@ -1,6 +1,6 @@
 {
   "name": "Montuino",
   "tagline": "Controlador MIDI basado en Arduino UNO.",
-  "body": "### Equipamiento: Arduino UNO, 2 Potenciometros, 3 Botones, 3 LEDS, 1 Sensor Infrarrojo.\r\n\r\n* Es necesario instalar la siguiente librería para el uso de Montuino MIDI Controller: \r\nMIDI Library (http://playground.arduino.cc/Main/MIDILibrary)\r\n\r\n* Para emular los puertos MIDI hago uso del programa loopMIDI de Tobias Erichsen. \r\n(http://www.tobias-erichsen.de/software/loopmidi.html)\r\n\r\n* Para convertir las señales seriales a MIDI hago uso el programa Hairless MIDI<->Serial Bridge\r\n(http://projectgus.github.io/hairless-midiserial/)\r\n\r\nCon estas herramientas ya podrás conectar el controlador MIDI a cualquier DAW.",
+  "body": "### Equipamiento: Arduino UNO, 2 Potenciometros, 3 Botones, 3 LEDS, 1 Sensor Infrarrojo.\r\n\r\n***\r\n\r\n* Es necesario instalar la siguiente librería para el uso de Montuino MIDI Controller. \r\nMIDI Library (http://playground.arduino.cc/Main/MIDILibrary)\r\n\r\n* Para emular los puertos MIDI hago uso del programa loopMIDI de Tobias Erichsen. \r\n(http://www.tobias-erichsen.de/software/loopmidi.html)\r\n\r\n* Para convertir las señales seriales a MIDI hago uso el programa Hairless MIDI<->Serial Bridge.\r\n(http://projectgus.github.io/hairless-midiserial/)\r\n\r\nCon estas herramientas ya podrás conectar el controlador MIDI a cualquier DAW.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
